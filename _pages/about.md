@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:cherry_blossom:I'm Boshen Shi, a fifth year Ph.D at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from successive Master's and Doctoral Program. I'm now supervised by Prof.Huawei Shen. 
+I'm Boshen Shi, a fifth year Ph.D at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS) from successive Master's and Doctoral Program. I'm now supervised by Prof.Huawei Shen. 
 
 My research interests include **graph transfer learning, graph data mining and social computing**. Selected first-auhor publications are listed as follows. You can find their detailed introductions  [here](https://academicpages.github.io/publications/).
 
